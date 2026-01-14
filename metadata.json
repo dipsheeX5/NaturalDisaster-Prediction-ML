@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "img_size": [
+    224,
+    224
+  ],
+  "classes": [
+    "cyclone",
+    "earthquake",
+    "flood",
+    "wildfire"
+  ],
+  "train_count": 1800,
+  "val_count": 300,
+  "test_count": 300
+}
